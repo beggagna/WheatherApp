@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Reykjavík",
+    "longitude": -21.933333,
+    "latitude": 64.133333
+  },
+  {
+    "name": "Akureyri",
+    "longitude": -18.0878,
+    "latitude": 65.68353
+  },
+  {
+    "name": "Ólafsfjörður",
+    "longitude": -18.64859,
+    "latitude": 66.07256
+  },
+
+  {
+    "name": "Grímsey",
+    "longitude": -18.0148,
+    "latitude": 66.54008
+  },
+  {
+    "name": "Raufarhöfn",
+    "longitude": -15.94776,
+    "latitude": 66.45209
+  },
+  {
+    "name": "Höfn í Hornafirði",
+    "longitude": -15.22115,
+    "latitude": 64.30389
+  }
+]
